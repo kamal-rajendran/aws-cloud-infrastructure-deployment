@@ -1,0 +1,1 @@
+mysql -h your-rds-endpoint -u your-username -p < rds-setup/db-schema.sql
